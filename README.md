@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer, UI/UX, Prompt Engineer, Hobby Ethical Hacker, Student at The Emerald Heights International School
+I am a Software Developer, UI/UX, Prompt Engineer, Hobby Ethical Hacker, A Arch Linux User, and a Student at The Emerald Heights International School
 
 
 ## 🌐 Socials:
