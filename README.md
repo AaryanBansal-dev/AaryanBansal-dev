@@ -83,11 +83,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaryanBansal-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AaryanBansal-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanBansal-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
@@ -153,14 +148,7 @@
 
 <div align="center">
 
-### 💖 Thanks for visiting! 
+### Thanks for visiting! 
 
-<img src="https://visitcount.itsvg.in/api?id=AaryanBansal-dev&icon=3&color=6" alt="Visit Count"/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
