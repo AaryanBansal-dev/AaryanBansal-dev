@@ -85,6 +85,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanBansal-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AaryanBansal-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AaryanBansal-dev&theme=dark&hide_border=false)<br/>
 
 </div>
 
