@@ -12,7 +12,7 @@
 🔭 Currently working on cutting-edge web technologies and AI/ML projects  
 💡 Passionate about creating beautiful, functional user experiences  
 🌱 Always learning and exploring new technologies  
-⚡ Fun fact: I use Arch, btw 😎
+⚡ Fun fact: I use Arch, btw
 
 
 <div align="center">
