@@ -80,20 +80,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <div align="center">
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanBansal-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
 ## 📈 GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanBansal-dev&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=false" alt="GitHub Activity Graph"/>
