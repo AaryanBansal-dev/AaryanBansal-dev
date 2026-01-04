@@ -7,7 +7,7 @@
 </div>
 
 # 💫 About Me:
-🚀 I am a Software Developer, UI/UX Designer, Prompt Engineer, Hobby Ethical Hacker, an Arch Linux User, and a Student at The Emerald Heights International School
+🚀 I am a Software Developer, UI/UX Designer, Prompt Engineer, Hobby Ethical Hacker, an Arch Linux User
 
 🔭 Currently working on cutting-edge web technologies and AI/ML projects  
 💡 Passionate about creating beautiful, functional user experiences  
